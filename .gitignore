@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pkl
+data/
+*.zip
+Thumbs.db
